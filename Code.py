@@ -18,6 +18,6 @@ ax.legend(handles, legend_labels, title='Cultivar')
 ax.set_xlabel("Plant number")
 ax.set_ylabel("Seed number")
 ax.set_zlabel("Seed weight")
-ax.set_title("Investigating the relationship between seed weight, seed number, and plant number on seed yield across three different cultivars")
+ax.set_title("Investigating the relationship between seed weight, seed number, and plant number on seed yield across four cultivars")
 
 plt.show()
